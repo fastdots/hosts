@@ -20,7 +20,7 @@
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last updated: **February 26 2020**.
+* Last updated: **March 01 2020**.
 * Here's the [raw hosts file with gambling extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) containing 53,986 entries.
 * Logo by [@Tobaloidee](https://github.com/Tobaloidee).
 
@@ -421,7 +421,7 @@ devices under a variety of operating systems.
 
 * [Unified Hosts AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate "Unified Hosts AutoUpdate") (for Windows): The Unified Hosts AutoUpdate package is purpose-built for this unified hosts project as well as in active development by community members. You can install and uninstall any blacklist and keep it automatically up to date, and can be placed in a shared network location and deployed across an organization via group policies. And since it is in active development by community members, your bug reports, feature requests, and other feedback are most welcome.
 
-* [ViHoMa](https://github.com/cmabad/ViHoMa) is a Visual Hosts file Manager, written in Java, by Christian Martínez.  Check it out!
+* [ViHoMa](https://github.com/cmabad/ViHoMa) is a Visual Hosts file Manager, written in Java, by Christian MartÃ­nez.  Check it out!
 
 ## Interesting Applications
 
@@ -435,7 +435,7 @@ devices under a variety of operating systems.
 
 * [Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server](https://scripttiger.github.io/dualserver "Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server") (for BSD, Windows & Linux): Set up a blacklist for everyone on your network using the power of the unified hosts reformatted for DualServer. And if you're on Windows, this project also maintains an update script to make updating DualServer's blacklist even easier.
 
-* [Blocking ads and malwares with unbound](https://deadc0de.re/articles/unbound-blocking-ads.html "Blocking ads and malwares with unbound") – [Unbound](https://www.unbound.net/ "Unbound is a validating, recursive, and caching DNS resolver.") is a validating, recursive, and caching DNS resolver.
+* [Blocking ads and malwares with unbound](https://deadc0de.re/articles/unbound-blocking-ads.html "Blocking ads and malwares with unbound") â€“ [Unbound](https://www.unbound.net/ "Unbound is a validating, recursive, and caching DNS resolver.") is a validating, recursive, and caching DNS resolver.
 
 * [DNSMasq conversion script](https://gist.github.com/erlepereira/c11f4f7a3f60cd2071e79018e895fc8a#file-dnsmasq-antimalware) This GitHub gist has a short shell script (bash, will work on any 'nix) and uses 'wget' & 'awk' present in most distros, to fetch a specified hosts file and convert it the format required by dnsmasq. Supports IPv4 and IPv6. Designed to be used as either a shell script, or can be dropped into /etc/cron.weekly (or wherever suits). The script is short and easily edited, also has a short document attached with notes on dnsmasq setup.
 
